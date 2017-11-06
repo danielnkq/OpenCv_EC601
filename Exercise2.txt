@@ -1,0 +1,28 @@
+
+When ColorImage.cpp was ran, it gave 10 outputs.
+1. The original image
+
+RGB images
+2. The image was from the red channel of the image. This image was very bright.
+3. The Green channel showed a much darker and sharper image.
+4. The Blue channel was virtually the mean of the green and red channels.
+
+YCbCr Images
+5. The Y component was similar to output the green channel from the RGB image just that this image had “lighter blacks’
+6.The Cb component was a blur image which mainly focused on the outlines of the image.
+7. The Cr component was similar to the Cb component just that its dark and bright areas were the inverse of the Cb component
+
+
+HSV images
+8. The Hue was an image with dark patches
+9. The saturation resembled the negative of a camera film
+10. The Value was the same as the red channel from the RGB image
+
+
+
+
+
+2) values of pixels at (20,25)
+	BGR= [106 122 225]
+	yCbCr= [106 122 225]
+	hsv= [106 122 225]
