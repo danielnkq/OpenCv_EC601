@@ -1,0 +1,2 @@
+Gaussian blur is the best for gaussian noise.
+Median filter is the best for salt and pepper noise
