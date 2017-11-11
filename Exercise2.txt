@@ -26,3 +26,9 @@ HSV images
 	BGR= [106 122 225]
 	yCbCr= [106 122 225]
 	hsv= [106 122 225]
+	
+	
+	
+	Range of RGB = 0-255
+	Range of HSV  =  0° - 360°
+	Range of YCbCr = 16 - 240
