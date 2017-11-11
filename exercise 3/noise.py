@@ -40,12 +40,7 @@ def main():
     k = [3]
     
 
-    try:
-        img = sys.argv[1]
-    except IndexError:
-        img = "Lenna.png"
-
-    pic = cv2.imread(img,0)
+    pic = cv2.imread('Lenna.png',0)
     cv2.imshow("Lenna",pic)
     
     for i in range(len(k)):
