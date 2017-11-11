@@ -1,0 +1,12 @@
+Binary Threshold darkens the dark parts of the gray scale image and lightens the white parts.
+
+Band threshold is the inverse of Binary threshold.
+
+Semi threshold looks like a dark negative image.
+
+Adaptive threshold highlights the edges of the image better.
+
+2.
+Limited application. It converts images to black and white format
+
+3. It is useful for segmenting text from image
